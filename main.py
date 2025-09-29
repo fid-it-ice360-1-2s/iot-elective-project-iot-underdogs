@@ -1,0 +1,1 @@
+print(f"Welcome to the vault system.")
